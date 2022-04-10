@@ -10,5 +10,5 @@ The data needed to run the notebook is NOT provided. if you can't find it ask me
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![sst_nino_nina](https://user-images.githubusercontent.com/76565450/162587243-59c1f674-c05b-4d07-ae06-055609669d06.png)
-
+![oni_vs_soi](https://user-images.githubusercontent.com/76565450/162640306-c6514fc6-ed1a-461c-8ae4-09695c2674a0.png)
 ![eof1_pc1_sst_ndjfm_pac](https://user-images.githubusercontent.com/76565450/162587258-58eea47f-8444-4f8d-a2bf-b5c1f7aa05de.png)
